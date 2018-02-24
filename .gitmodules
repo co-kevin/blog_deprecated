@@ -6,4 +6,4 @@
 	url = https://github.com/gcushen/hugo-academic
 [submodule "themes/minimal"]
 	path = themes/minimal
-	url = https://github.com/calintat/minimal.git
+	url = git@github.com:hookszhang/minimal.git
