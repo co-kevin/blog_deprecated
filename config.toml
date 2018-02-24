@@ -1,5 +1,5 @@
 baseURL = "http://hookszhang.space/"
-languageCode = "en-us"
+languageCode = "zh-CN"
 title = "Hooks Zhang's Blog"
 theme = "minimal"
 disqusShortname = "hookszhang-space" # delete this to disable disqus comments
@@ -16,6 +16,7 @@ googleAnalytics = ""
     highlight = true
     highlightStyle = "github"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    baiduAnalytics = "934435e81e770336b65f19074823a8ae"
 
 [[menu.main]]
     url = "/"
