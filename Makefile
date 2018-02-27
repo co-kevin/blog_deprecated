@@ -1,7 +1,7 @@
 default: dev
 
 dev:
-		hugo server -D
+		hugo server -D --disableFastRender
 
 deploy:
 		hugo
