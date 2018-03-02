@@ -1,4 +1,4 @@
-baseURL = "http://hookszhang.space/"
+baseURL = "https://hookszhang.space/"
 languageCode = "zh-CN"
 title = "Hooks Zhang's Blog"
 theme = "minimal"
