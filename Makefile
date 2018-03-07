@@ -5,4 +5,4 @@ dev:
 
 deploy:
 		hugo
-		scp -r public/* root@hookszhang.space:/usr/share/nginx/blog/
+		scp -P '26386' -r public/* root@95.163.196.185:/usr/share/nginx/blog/
