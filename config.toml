@@ -7,7 +7,7 @@ googleAnalytics = ""
 
 [params]
     author = "Hooks Zhang"
-    description = "Technology hipster"
+    description = "技术狂热分子"
     githubUsername = "hookszhang"
     accent = "red"
     showBorder = true
@@ -20,12 +20,12 @@ googleAnalytics = ""
 
 [[menu.main]]
     url = "/"
-    name = "Home"
+    name = "首页"
     weight = 1
 
 [[menu.main]]
     url = "/posts/"
-    name = "Posts"
+    name = "文章"
     weight = 2
 
 # Social icons to be shown on the right-hand side of the navigation bar
